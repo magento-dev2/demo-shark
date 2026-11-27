@@ -1,0 +1,15 @@
+{
+  "node": {
+    "809b1914ea6f00c173fabb34eed66a4ccda4006833": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/components/Footer.tsx [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "exportedName": "$$RSC_SERVER_CACHE_0",
+      "filename": "src/components/Footer.tsx"
+    }
+  },
+  "edge": {}
+}

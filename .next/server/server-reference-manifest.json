@@ -1,0 +1,20 @@
+{
+  "node": {
+    "804987684bc3ed4fa8d31f05edd1d6608d2e2b4514": {
+      "workers": {
+        "app/_not-found/page": {
+          "moduleId": 17224,
+          "async": false
+        },
+        "app/page": {
+          "moduleId": 6980,
+          "async": false
+        }
+      },
+      "filename": "src/components/Footer.tsx",
+      "exportedName": "$$RSC_SERVER_CACHE_0"
+    }
+  },
+  "edge": {},
+  "encryptionKey": "PFY/mTt+2tzLsuUSr8xPOIlNgtQWIB4NY2CVi3n4HMo="
+}

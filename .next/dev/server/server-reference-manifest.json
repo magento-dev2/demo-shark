@@ -1,0 +1,16 @@
+{
+  "node": {
+    "809b1914ea6f00c173fabb34eed66a4ccda4006833": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/components/Footer.tsx [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "filename": "src/components/Footer.tsx",
+      "exportedName": "$$RSC_SERVER_CACHE_0"
+    }
+  },
+  "edge": {},
+  "encryptionKey": "dUi5ixDqthDmsZisC9UlMgxuR2lnzAhIOUEn9obj6ro="
+}

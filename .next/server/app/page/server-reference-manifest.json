@@ -1,0 +1,15 @@
+{
+  "node": {
+    "804987684bc3ed4fa8d31f05edd1d6608d2e2b4514": {
+      "workers": {
+        "app/page": {
+          "moduleId": 6980,
+          "async": false
+        }
+      },
+      "exportedName": "$$RSC_SERVER_CACHE_0",
+      "filename": "src/components/Footer.tsx"
+    }
+  },
+  "edge": {}
+}
